@@ -51,18 +51,18 @@
 //     console.log(fruit)
 // }
 
-const number = 7
+// const number = 7
 
-if(number > 5){
-    console.log("Number is greater than 5")
+// if(number > 5){
+//     console.log("Number is greater than 5")
+// }
+// else {
+//     console.log("Number is less than 5")
+// }
+
+const numbers = [1, 2, 3, 4, 5];
+console.log(numbers)
+
+for (const num of numbers) {
+    console.log(num)
 }
-else {
-    console.log("Number is less than 5")
-}
-
-
-
-
-
-
-
