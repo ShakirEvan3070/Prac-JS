@@ -60,9 +60,15 @@
 //     console.log("Number is less than 5")
 // }
 
-const numbers = [1, 2, 3, 4, 5];
-console.log(numbers)
+// const numbers = [1, 2, 3, 4, 5];
+// console.log(numbers)
 
-for (const num of numbers) {
-    console.log(num)
+// for (const num of numbers) {
+//     console.log(num)
+// }
+
+
+
+for (let num = 0; num <= 5; num++) {
+    console.log("Hello Evan")
 }
